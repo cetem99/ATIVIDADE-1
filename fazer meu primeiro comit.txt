@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meu pau ta doendo
+=======
+um texto para ver q(≧▽≦q)
+>>>>>>> 441d9671db22eea9eae093bf30923330703bddc0
